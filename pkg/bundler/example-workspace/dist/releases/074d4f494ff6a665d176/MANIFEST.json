@@ -1,0 +1,12 @@
+{
+  "artifacts": [
+    {
+      "name": "bundle/bundle.out",
+      "entries": [
+        "app/main"
+      ],
+      "size": 334,
+      "sha256": "4de49d55a66b7c4a3412da010d4d35b18c2ff1f10ecf9cc47d0cfbe527e91ff0"
+    }
+  ]
+}
